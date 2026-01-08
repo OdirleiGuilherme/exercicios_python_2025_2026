@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c60f13-8b16-4197-874d-af09c9b14277" name="Changes" comment="..." />
+    <list default="true" id="95c60f13-8b16-4197-874d-af09c9b14277" name="Changes" comment="Utilizando Tuplas com FOR, RANGE e LEN.">
+      <change afterPath="$PROJECT_DIR$/Aula_16_tuplas/teste_tuplas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste_tuplas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste_tuplas2_trabalhando_com_FOR.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_16_tuplas/teste_tuplas2_trabalhando_com_FOR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teste_tuplas3_trabalhando_com_for_range_len.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_16_tuplas/teste_tuplas3_trabalhando_com_for_range_len.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste_tuplas.py" />
+      <option name="SCRIPT_NAME" value="E:\PROJETOS\PycharmProjects\PythonProject\exercicio_python\Aula_16_tuplas\teste_tuplas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +286,39 @@
       <option name="project" value="LOCAL" />
       <updated>1767846637253</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Inserindo uma segunda maneira de print utilizando For, Range e Len com as Tuplas.">
+      <option name="closed" value="true" />
+      <created>1767847568178</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1767847568178</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Utilizando Tuplas e o FOR.">
+      <option name="closed" value="true" />
+      <created>1767848314899</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1767848314899</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Utilizando Tuplas e o FOR.">
+      <option name="closed" value="true" />
+      <created>1767848365494</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767848365494</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Utilizando Tuplas com FOR, RANGE e LEN.">
+      <option name="closed" value="true" />
+      <created>1767848706148</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1767848706148</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,6 +342,10 @@
     <MESSAGE value="commit exercício programa tipo B para descobrir o antecessor e o sucessor de um número utilizando 3 variáveis." />
     <MESSAGE value="treinando exemplos dá aula 16 de curso python." />
     <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="Inserindo uma segunda maneira de print utilizando For, Range e Len com as Tuplas." />
+    <MESSAGE value="Utilizando Tuplas e o FOR. renomeando arquivo python" />
+    <MESSAGE value="Utilizando Tuplas e o FOR. renomeando arquivo python" />
+    <MESSAGE value="Utilizando Tuplas com FOR, RANGE e LEN." />
+    <option name="LAST_COMMIT_MESSAGE" value="Utilizando Tuplas com FOR, RANGE e LEN." />
   </component>
 </project>
