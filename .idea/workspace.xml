@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c60f13-8b16-4197-874d-af09c9b14277" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/teste_tuplas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/exercicio_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercicio_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="95c60f13-8b16-4197-874d-af09c9b14277" name="Changes" comment="..." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -268,7 +264,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766455453412</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="treinando exemplos dá aula 16 de curso python.">
+      <option name="closed" value="true" />
+      <created>1767846585779</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767846585779</updated>
+    </task>
+    <task id="LOCAL-00010" summary="...">
+      <option name="closed" value="true" />
+      <created>1767846637253</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1767846637253</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -290,6 +302,8 @@
     <MESSAGE value="commit exercício onde peço para utilizador digitar uma palavra e após digitada o programa pergunta e responde qual tipo primitivo, se tem espaços, se é alfabético ou alfanumérico e assim por diante." />
     <MESSAGE value="commit exercício programa para descobrir o antecessor e o sucessor de um número utilizando apenas uma única variável." />
     <MESSAGE value="commit exercício programa tipo B para descobrir o antecessor e o sucessor de um número utilizando 3 variáveis." />
-    <option name="LAST_COMMIT_MESSAGE" value="commit exercício programa tipo B para descobrir o antecessor e o sucessor de um número utilizando 3 variáveis." />
+    <MESSAGE value="treinando exemplos dá aula 16 de curso python." />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
 </project>
