@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95c60f13-8b16-4197-874d-af09c9b14277" name="Changes" comment="utilizando o del para apagar uma variável em tupla.">
-      <change afterPath="$PROJECT_DIR$/exercícios da aula 16_tuplas/exe72_número_por_extenso.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios da aula 16_tuplas/exe73_tuplas_com_times_de_futebol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios da aula 16_tuplas/exe74_maior_menor_valores_em_tupla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios da aula 16_tuplas/exe75_analise_de_dados_em_uma_tupla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios da aula 16_tuplas/exe76_lista_de_precos_com_tupla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercícios da aula 16_tuplas/exe77_contando_vogais_em_tuplas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe01_ola_mundo.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios da aula 04_comandos básicos python/exe01_ola_mundo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe02_respondendo_usuario.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios da aula 04_comandos básicos python/exe02_respondendo_usuario.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe03_somando_dois_numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios da aula 04_comandos básicos python/exe03_somando_dois_numeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe04_dissecando_informacao_digitada.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios da aula 04_comandos básicos python/exe04_dissecando_informacao_digitada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe05B_antecessor_e_sucessor_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios da aula 07_operadores aritméticos/exe05B_antecessor_e_sucessor_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exe05_antecessor_e_sucessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercícios da aula 07_operadores aritméticos/exe05_antecessor_e_sucessor.py" afterDir="false" />
-    </list>
+    <list default="true" id="95c60f13-8b16-4197-874d-af09c9b14277" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,36 +43,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.exe001_ola_mundo.executor": "Run",
-    "Python.exe002_respondendo_usuário.executor": "Run",
-    "Python.exe003_somando_dois_números.executor": "Run",
-    "Python.exe004_dissecando_uma_variavél.executor": "Run",
-    "Python.exe005B_com_3_variáveis.executor": "Run",
-    "Python.exe005_predecessor_and_sucessor.executor": "Run",
-    "Python.exe01_ola_mundo.executor": "Run",
-    "Python.exe02_respondendo_usuario.executor": "Run",
-    "Python.exe03_somando_dois_numeros.executor": "Run",
-    "Python.exe04_dissecando_informacao_digitada.executor": "Run",
-    "Python.exe05B_antecessor_e_sucessor_2.executor": "Run",
-    "Python.exe05_antecessor_e_sucessor.executor": "Run",
-    "Python.teste_tuplas (1).executor": "Run",
-    "Python.teste_tuplas.executor": "Run",
-    "Python.teste_tuplas10_com_index.executor": "Run",
-    "Python.teste_tuplas11_com_index_v2.executor": "Run",
-    "Python.teste_tuplas12_usando_del.executor": "Run",
-    "Python.teste_tuplas4_com_fstring_for_range_len.executor": "Run",
-    "Python.teste_tuplas5_com_fstring_for_enumarate.executor": "Run",
-    "Python.teste_tuplas6_com_sorted.executor": "Run",
-    "Python.teste_tuplas7_somando_tuplas_e_seu_resultado.executor": "Run",
-    "Python.teste_tuplas8_com_len.executor": "Run",
-    "Python.teste_tuplas9_com_count.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.exe001_ola_mundo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe002_respondendo_usuário.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe003_somando_dois_números.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe004_dissecando_uma_variavél.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe005B_com_3_variáveis.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe005_predecessor_and_sucessor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe01_ola_mundo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe02_respondendo_usuario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe03_somando_dois_numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe04_dissecando_informacao_digitada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe05B_antecessor_e_sucessor_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe05_antecessor_e_sucessor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas10_com_index.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas11_com_index_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas12_usando_del.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas4_com_fstring_for_range_len.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas5_com_fstring_for_enumarate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas6_com_sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas7_somando_tuplas_e_seu_resultado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas8_com_len.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_tuplas9_com_count.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\PROJETOS\PycharmProjects\PythonProject\exercicio_python\exercícios operadores aritméticos da aula 07" />
@@ -94,7 +80,30 @@
       <recent name="E:\PROJETOS\PycharmProjects\PythonProject\exercicio_python\Aula_16_tuplas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.teste_tuplas12_usando_del">
+  <component name="RunManager" selected="Python.exe09">
+    <configuration name="exe09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercicio_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exe09.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="teste_tuplas10_com_index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercicio_python" />
       <option name="ENV_FILES" value="" />
@@ -187,36 +196,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste_tuplas8_com_len" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercicio_python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula_16_tuplas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula_16_tuplas/teste_tuplas8_com_len.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exe09" />
         <item itemvalue="Python.teste_tuplas12_usando_del" />
         <item itemvalue="Python.teste_tuplas11_com_index_v2" />
         <item itemvalue="Python.teste_tuplas10_com_index" />
         <item itemvalue="Python.teste_tuplas7_somando_tuplas_e_seu_resultado" />
-        <item itemvalue="Python.teste_tuplas8_com_len" />
       </list>
     </recent_temporary>
   </component>
@@ -412,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767936445873</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="acertando pastas e organizando exercícios em seus devidos lugares corretos.">
+      <option name="closed" value="true" />
+      <created>1767937638329</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1767937638329</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -448,6 +442,7 @@
     <MESSAGE value="aplicando o .index() em tuplas" />
     <MESSAGE value="aplicando o .index()  de uma segunda forma em tuplas" />
     <MESSAGE value="utilizando o del para apagar uma variável em tupla." />
-    <option name="LAST_COMMIT_MESSAGE" value="utilizando o del para apagar uma variável em tupla." />
+    <MESSAGE value="acertando pastas e organizando exercícios em seus devidos lugares corretos." />
+    <option name="LAST_COMMIT_MESSAGE" value="acertando pastas e organizando exercícios em seus devidos lugares corretos." />
   </component>
 </project>
